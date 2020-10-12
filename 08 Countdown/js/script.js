@@ -4,10 +4,11 @@ if(i<0){
 }
 else{
     for(; i>=0; i--){
+        window.console.log(i);
         /*
         To print the values in browser window.
         document.write(i + "<br>");
-    */
-        window.console.log(i);
+        */
+        
     }
 }

@@ -10,5 +10,5 @@ else if(num1 == num2){
 else if(num1> num2){
     document.write(num1 +  " is larger");
 }else{
-    document.write(num2 +  "is larger");
+    document.write(num2 +  " is larger");
 }
